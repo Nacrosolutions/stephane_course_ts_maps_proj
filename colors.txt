@@ -1,3 +1,5 @@
 Red
 Orange
 indigo
+yellow
+sky
