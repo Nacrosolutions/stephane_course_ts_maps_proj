@@ -9,7 +9,8 @@ export class Company {
         lng:number
     };
 
-    constructor() {
+   
+constructor() {
         this.companyName=faker.company.name();
         this.catchPhrase=faker.company.catchPhrase();
         this.location={
